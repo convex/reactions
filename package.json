@@ -1,10 +1,10 @@
 {
   "name": "@convex/reactions",
   "description": "A Convex component for adding reactions (like emoji reactions) to any content in your app, with denormalized counts for fast aggregation.",
-  "repository": "github:get-convex/reactions",
-  "homepage": "https://github.com/get-convex/reactions#readme",
+  "repository": "github:convex/reactions",
+  "homepage": "https://github.com/convex/reactions#readme",
   "bugs": {
-    "url": "https://github.com/get-convex/reactions/issues"
+    "url": "https://github.com/convex/reactions/issues"
   },
   "version": "0.1.0",
   "license": "Apache-2.0",
