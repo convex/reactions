@@ -206,7 +206,7 @@ async function setup() {
     ["@convex/reactions", npmPackageName],
 
     // Repository name
-    ["get-convex/reactions", repoName],
+    ["convex/reactions", repoName],
 
     // Component name variations
     ["Reactions", cases.pascal],

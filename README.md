@@ -91,7 +91,7 @@ users can react to.
 - ✅ **Cascade deletion** - easily delete all reactions when content is removed
 
 Found a bug? Feature request?
-[File it here](https://github.com/get-convex/reactions/issues).
+[File it here](https://github.com/convex/reactions/issues).
 
 ## Pre-requisite: Convex
 
